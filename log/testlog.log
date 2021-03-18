@@ -1,0 +1,271 @@
+2021-03-09 14:20:02,154 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-03-09 14:20:40,516 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-03-09 14:21:19,309 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-03-09 14:23:33,699 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-03-09 14:23:54,703 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-03-09 14:27:07,174 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-03-09 14:27:30,721 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-03-09 14:28:09,612 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-03-09 14:28:18,887 - logger_File -INFO - User verify all items are present in Desktops tab   failed
+2021-03-09 14:28:18,892 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-03-09 14:28:27,708 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-03-09 14:28:27,733 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-03-09 14:28:35,403 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-03-09 14:28:35,412 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-03-09 14:28:43,852 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   failed
+2021-03-09 14:30:21,793 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-03-09 14:30:32,252 - logger_File -INFO - User verify all items are present in Desktops tab   failed
+2021-03-09 14:30:32,260 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-03-10 09:37:30,441 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-03-10 09:37:43,617 - logger_File -INFO - User verify all items are present in Desktops tab   failed
+2021-03-10 09:37:43,626 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-03-10 09:37:50,439 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-03-10 09:37:50,449 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-03-10 09:38:03,190 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-03-10 09:38:03,199 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-03-10 09:38:15,227 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   failed
+2021-03-10 09:54:18,119 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-03-10 09:54:22,214 - logger_File -INFO - User verify all items are present in Desktops tab   undefined
+2021-03-10 09:54:22,225 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-03-10 09:54:24,963 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   undefined
+2021-03-10 09:54:24,970 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-03-10 09:54:27,637 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   undefined
+2021-03-10 09:54:27,643 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-03-10 09:54:30,320 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   undefined
+2021-03-10 09:57:03,887 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-03-10 09:57:08,382 - logger_File -INFO - User verify all items are present in Desktops tab   failed
+2021-03-10 09:57:08,389 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-03-10 09:57:11,064 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-03-10 09:57:11,077 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-03-10 09:57:13,789 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-03-10 09:57:13,799 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-03-10 09:57:16,589 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   failed
+2021-03-10 09:59:41,805 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-03-10 09:59:47,554 - logger_File -INFO - User verify all items are present in Desktops tab   failed
+2021-03-10 09:59:47,564 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-03-10 09:59:51,648 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   failed
+2021-03-10 09:59:51,654 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-03-10 09:59:55,726 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   failed
+2021-03-10 09:59:55,735 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-03-10 09:59:59,750 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   failed
+2021-03-10 10:02:11,356 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-03-10 10:02:32,887 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-03-10 10:02:59,073 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-03-10 10:09:15,008 - logger_File -INFO - Scenario  Started 
+2021-03-10 10:09:20,311 - logger_File -INFO - Retail page is opened
+2021-03-10 10:09:20,328 - logger_File -INFO - Page title  is verified
+2021-03-10 10:09:23,630 - logger_File -INFO -    passed
+2021-03-10 10:09:23,639 - logger_File -INFO - Scenario  Started 
+2021-03-10 10:09:27,258 - logger_File -INFO - Retail page is opened
+2021-03-10 10:09:27,268 - logger_File -INFO - Page title  is verified
+2021-03-10 10:09:32,525 - logger_File -INFO -    passed
+2021-03-10 10:09:32,530 - logger_File -INFO - Scenario  Started 
+2021-03-10 10:09:36,265 - logger_File -INFO - Retail page is opened
+2021-03-10 10:09:36,274 - logger_File -INFO - Page title  is verified
+2021-03-10 10:09:41,302 - logger_File -INFO -    passed
+2021-03-10 10:09:41,309 - logger_File -INFO - Scenario  Started 
+2021-03-10 10:09:44,946 - logger_File -INFO - Retail page is opened
+2021-03-10 10:09:44,956 - logger_File -INFO - Page title  is verified
+2021-03-10 10:09:50,054 - logger_File -INFO -    passed
+2021-03-10 10:09:50,060 - logger_File -INFO - Scenario Add and Remove a Mac Book from cart Started 
+2021-03-10 10:09:54,056 - logger_File -INFO - Retail page is opened
+2021-03-10 10:09:54,067 - logger_File -INFO - Page title  is verified
+2021-03-10 10:10:02,285 - logger_File -INFO - Add and Remove a Mac Book from cart   passed
+2021-03-10 10:10:02,292 - logger_File -INFO - Scenario Product Comparison Started 
+2021-03-10 10:10:06,113 - logger_File -INFO - Retail page is opened
+2021-03-10 10:10:06,122 - logger_File -INFO - Page title  is verified
+2021-03-10 10:10:10,084 - logger_File -INFO - Product Comparison   passed
+2021-03-10 10:10:10,090 - logger_File -INFO - Scenario Adding and item to Wish list Started 
+2021-03-10 10:10:14,449 - logger_File -INFO - Retail page is opened
+2021-03-10 10:10:14,460 - logger_File -INFO - Page title  is verified
+2021-03-10 10:10:17,201 - logger_File -INFO - Adding and item to Wish list   passed
+2021-03-10 10:10:17,212 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-10 10:10:21,343 - logger_File -INFO - Retail page is opened
+2021-03-10 10:10:21,359 - logger_File -INFO - Page title  is verified
+2021-03-10 10:10:26,158 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-03-10 10:10:26,167 - logger_File -INFO - Scenario Login to MyAccount Started 
+2021-03-10 10:10:30,156 - logger_File -INFO - Retail page is opened
+2021-03-10 10:10:30,167 - logger_File -INFO - Page title  is verified
+2021-03-10 10:10:30,787 - logger_File -INFO - User click on My Account
+2021-03-10 10:10:31,184 - logger_File -INFO - User click on Login
+2021-03-10 10:10:34,696 - logger_File -INFO - User enter email address
+2021-03-10 10:10:34,781 - logger_File -INFO - User enter password
+2021-03-10 10:10:36,171 - logger_File -INFO - User click on Login button
+2021-03-10 10:10:40,327 - logger_File -INFO - Login to MyAccount   passed
+2021-03-10 10:10:40,332 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-03-10 10:10:44,152 - logger_File -INFO - Retail page is opened
+2021-03-10 10:10:44,164 - logger_File -INFO - Page title  is verified
+2021-03-10 10:10:44,997 - logger_File -INFO - User click on My Account
+2021-03-10 10:10:45,319 - logger_File -INFO - User click on Login
+2021-03-10 10:10:48,786 - logger_File -INFO - User enter email address
+2021-03-10 10:10:48,874 - logger_File -INFO - User enter password
+2021-03-10 10:10:49,865 - logger_File -INFO - User click on Login button
+2021-03-10 10:10:54,030 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2021-03-10 10:10:54,036 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-03-10 10:19:25,806 - logger_File -INFO - Scenario  Started 
+2021-03-10 10:19:30,638 - logger_File -INFO - Retail page is opened
+2021-03-10 10:19:30,655 - logger_File -INFO - Page title  is verified
+2021-03-10 10:19:33,334 - logger_File -INFO -    passed
+2021-03-10 10:19:33,339 - logger_File -INFO - Scenario  Started 
+2021-03-10 10:19:37,294 - logger_File -INFO - Retail page is opened
+2021-03-10 10:19:37,304 - logger_File -INFO - Page title  is verified
+2021-03-10 10:19:42,103 - logger_File -INFO -    passed
+2021-03-10 10:19:42,110 - logger_File -INFO - Scenario  Started 
+2021-03-10 10:19:46,166 - logger_File -INFO - Retail page is opened
+2021-03-10 10:19:46,195 - logger_File -INFO - Page title  is verified
+2021-03-10 10:19:51,292 - logger_File -INFO -    passed
+2021-03-10 10:19:51,298 - logger_File -INFO - Scenario  Started 
+2021-03-10 10:19:55,334 - logger_File -INFO - Retail page is opened
+2021-03-10 10:19:55,346 - logger_File -INFO - Page title  is verified
+2021-03-10 10:20:02,374 - logger_File -INFO -    passed
+2021-03-10 10:20:02,385 - logger_File -INFO - Scenario Add and Remove a Mac Book from cart Started 
+2021-03-10 10:20:06,262 - logger_File -INFO - Retail page is opened
+2021-03-10 10:20:06,279 - logger_File -INFO - Page title  is verified
+2021-03-10 10:20:11,682 - logger_File -INFO - Add and Remove a Mac Book from cart   passed
+2021-03-10 10:20:11,689 - logger_File -INFO - Scenario Product Comparison Started 
+2021-03-10 10:20:15,882 - logger_File -INFO - Retail page is opened
+2021-03-10 10:20:15,895 - logger_File -INFO - Page title  is verified
+2021-03-10 10:20:19,631 - logger_File -INFO - Product Comparison   passed
+2021-03-10 10:20:19,680 - logger_File -INFO - Scenario Adding and item to Wish list Started 
+2021-03-10 10:21:59,394 - logger_File -INFO - Scenario  Started 
+2021-03-10 10:22:27,439 - logger_File -INFO - Retail page is opened
+2021-03-10 10:22:27,453 - logger_File -INFO - Page title  is verified
+2021-03-10 10:22:30,805 - logger_File -INFO -    passed
+2021-03-10 10:22:30,814 - logger_File -INFO - Scenario  Started 
+2021-03-10 10:22:35,285 - logger_File -INFO - Retail page is opened
+2021-03-10 10:22:35,306 - logger_File -INFO - Page title  is verified
+2021-03-10 10:22:40,451 - logger_File -INFO -    passed
+2021-03-10 10:22:40,459 - logger_File -INFO - Scenario  Started 
+2021-03-10 10:22:43,988 - logger_File -INFO - Retail page is opened
+2021-03-10 10:22:43,998 - logger_File -INFO - Page title  is verified
+2021-03-10 10:22:49,011 - logger_File -INFO -    passed
+2021-03-10 10:22:49,018 - logger_File -INFO - Scenario  Started 
+2021-03-10 10:22:52,961 - logger_File -INFO - Retail page is opened
+2021-03-10 10:22:52,975 - logger_File -INFO - Page title  is verified
+2021-03-10 10:22:58,581 - logger_File -INFO -    passed
+2021-03-10 11:32:01,187 - logger_File -INFO - Scenario  Started 
+2021-03-10 11:32:24,353 - logger_File -INFO - Retail page is opened
+2021-03-10 11:32:24,365 - logger_File -INFO - Page title  is verified
+2021-03-10 11:32:28,921 - logger_File -INFO -    passed
+2021-03-10 11:32:28,925 - logger_File -INFO - Scenario  Started 
+2021-03-10 11:32:32,600 - logger_File -INFO - Retail page is opened
+2021-03-10 11:32:32,607 - logger_File -INFO - Page title  is verified
+2021-03-10 11:32:37,749 - logger_File -INFO -    passed
+2021-03-10 11:32:37,754 - logger_File -INFO - Scenario  Started 
+2021-03-10 11:32:41,239 - logger_File -INFO - Retail page is opened
+2021-03-10 11:32:41,247 - logger_File -INFO - Page title  is verified
+2021-03-10 11:32:46,031 - logger_File -INFO -    passed
+2021-03-10 11:32:46,038 - logger_File -INFO - Scenario  Started 
+2021-03-10 11:32:49,835 - logger_File -INFO - Retail page is opened
+2021-03-10 11:32:49,843 - logger_File -INFO - Page title  is verified
+2021-03-10 11:32:58,702 - logger_File -INFO -    passed
+2021-03-10 11:32:58,708 - logger_File -INFO - Scenario Add and Remove a Mac Book from cart Started 
+2021-03-10 11:33:02,498 - logger_File -INFO - Retail page is opened
+2021-03-10 11:33:02,505 - logger_File -INFO - Page title  is verified
+2021-03-10 11:33:11,263 - logger_File -INFO - Add and Remove a Mac Book from cart   passed
+2021-03-10 11:33:11,266 - logger_File -INFO - Scenario Product Comparison Started 
+2021-03-10 11:33:26,175 - logger_File -INFO - Retail page is opened
+2021-03-10 11:33:26,183 - logger_File -INFO - Page title  is verified
+2021-03-10 11:33:35,265 - logger_File -INFO - Product Comparison   passed
+2021-03-10 11:33:35,269 - logger_File -INFO - Scenario Adding and item to Wish list Started 
+2021-03-10 11:33:39,036 - logger_File -INFO - Retail page is opened
+2021-03-10 11:33:39,042 - logger_File -INFO - Page title  is verified
+2021-03-10 11:33:41,680 - logger_File -INFO - Adding and item to Wish list   passed
+2021-03-10 11:33:41,683 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started 
+2021-03-10 11:33:45,509 - logger_File -INFO - Retail page is opened
+2021-03-10 11:33:45,526 - logger_File -INFO - Page title  is verified
+2021-03-10 11:33:50,217 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-03-10 11:33:50,220 - logger_File -INFO - Scenario Login to MyAccount Started 
+2021-03-10 11:33:53,717 - logger_File -INFO - Retail page is opened
+2021-03-10 11:33:53,724 - logger_File -INFO - Page title  is verified
+2021-03-10 11:33:54,230 - logger_File -INFO - User click on My Account
+2021-03-10 11:33:54,524 - logger_File -INFO - User click on Login
+2021-03-10 11:33:57,963 - logger_File -INFO - User enter email address
+2021-03-10 11:33:58,042 - logger_File -INFO - User enter password
+2021-03-10 11:33:58,861 - logger_File -INFO - User click on Login button
+2021-03-10 11:34:02,982 - logger_File -INFO - Login to MyAccount   passed
+2021-03-10 11:34:02,987 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-03-10 11:34:06,551 - logger_File -INFO - Retail page is opened
+2021-03-10 11:34:06,572 - logger_File -INFO - Page title  is verified
+2021-03-10 11:34:07,120 - logger_File -INFO - User click on My Account
+2021-03-10 11:34:07,453 - logger_File -INFO - User click on Login
+2021-03-10 11:34:10,866 - logger_File -INFO - User enter email address
+2021-03-10 11:34:10,940 - logger_File -INFO - User enter password
+2021-03-10 11:34:11,711 - logger_File -INFO - User click on Login button
+2021-03-10 11:34:15,905 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2021-03-10 11:34:15,910 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-03-10 11:34:19,459 - logger_File -INFO - Retail page is opened
+2021-03-10 11:34:19,472 - logger_File -INFO - Page title  is verified
+2021-03-10 11:34:20,061 - logger_File -INFO - User click on My Account
+2021-03-10 11:34:20,538 - logger_File -INFO - User click on Login
+2021-03-10 11:34:23,967 - logger_File -INFO - User enter email address
+2021-03-10 11:34:24,057 - logger_File -INFO - User enter password
+2021-03-10 11:34:25,069 - logger_File -INFO - User click on Login button
+2021-03-10 11:34:29,278 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2021-03-10 11:34:29,283 - logger_File -INFO - Scenario Login to Retail Site with multiple users Started 
+2021-03-10 11:34:32,754 - logger_File -INFO - Retail page is opened
+2021-03-10 11:34:32,760 - logger_File -INFO - Page title  is verified
+2021-03-10 11:34:33,326 - logger_File -INFO - User click on My Account
+2021-03-10 11:34:33,669 - logger_File -INFO - User click on Login
+2021-03-10 11:34:37,072 - logger_File -INFO - User enter email address
+2021-03-10 11:34:37,152 - logger_File -INFO - User enter password
+2021-03-10 11:34:53,596 - logger_File -INFO - User click on Login button
+2021-03-10 11:34:57,789 - logger_File -INFO - Login to Retail Site with multiple users   passed
+2021-03-10 11:34:57,793 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-03-10 11:35:06,701 - logger_File -INFO - Retail page is opened
+2021-03-10 11:35:06,710 - logger_File -INFO - Page title  is verified
+2021-03-10 11:35:07,304 - logger_File -INFO - User entered value in seacrch bar
+2021-03-10 11:35:33,590 - logger_File -INFO - User Clicked on search button
+2021-03-10 11:35:33,956 - logger_File -INFO - iPhone image is displayed
+2021-03-10 11:35:34,782 - logger_File -INFO - Search functionality Test case   passed
+2021-03-10 11:35:34,786 - logger_File -INFO - Scenario Test Search Funtionality with multiple set of Data Started 
+2021-03-10 11:36:22,472 - logger_File -INFO - Test Search Funtionality with multiple set of Data   failed
+2021-03-10 11:36:22,476 - logger_File -INFO - Scenario Test Search Funtionality with multiple set of Data Started 
+2021-03-10 11:36:45,200 - logger_File -INFO - Retail page is opened
+2021-03-10 11:36:45,206 - logger_File -INFO - Page title  is verified
+2021-03-10 11:36:45,742 - logger_File -INFO - User entered value in seacrch bar
+2021-03-10 11:36:47,868 - logger_File -INFO - User Clicked on search button
+2021-03-10 11:36:48,755 - logger_File -INFO - Test Search Funtionality with multiple set of Data   passed
+2021-03-10 11:36:48,759 - logger_File -INFO - Scenario Test Search Funtionality with multiple set of Data Started 
+2021-03-10 11:36:52,722 - logger_File -INFO - Retail page is opened
+2021-03-10 11:36:52,730 - logger_File -INFO - Page title  is verified
+2021-03-10 11:36:53,261 - logger_File -INFO - User entered value in seacrch bar
+2021-03-10 11:36:54,166 - logger_File -INFO - User Clicked on search button
+2021-03-10 11:36:55,058 - logger_File -INFO - Test Search Funtionality with multiple set of Data   passed
+2021-03-10 11:36:55,061 - logger_File -INFO - Scenario Register and Account test case Started 
+2021-03-10 11:36:58,798 - logger_File -INFO - Retail page is opened
+2021-03-10 11:36:58,808 - logger_File -INFO - Page title  is verified
+2021-03-10 11:36:59,297 - logger_File -INFO - User click on My Account
+2021-03-10 11:37:00,176 - logger_File -INFO - User click on Register option
+2021-03-10 11:37:00,694 - logger_File -INFO - User filled the information form
+2021-03-10 11:37:01,109 - logger_File -INFO - User Check Privacy and Policy
+2021-03-10 11:37:17,398 - logger_File -INFO - User clicked on cotinue button
+2021-03-10 11:37:17,777 - logger_File -INFO - Account was created succesfully
+2021-03-10 11:37:18,625 - logger_File -INFO - Register and Account test case   passed
+2021-03-10 11:37:18,628 - logger_File -INFO - Scenario Register as an Affiliate userwith Cheque Payment Method Started 
+2021-03-10 11:37:23,178 - logger_File -INFO - Retail page is opened
+2021-03-10 11:37:23,187 - logger_File -INFO - Page title  is verified
+2021-03-10 11:37:23,632 - logger_File -INFO - User click on My Account
+2021-03-10 11:37:24,501 - logger_File -INFO - User click on Login
+2021-03-10 11:37:27,892 - logger_File -INFO - User enter email address
+2021-03-10 11:37:27,966 - logger_File -INFO - User enter password
+2021-03-10 11:37:28,919 - logger_File -INFO - User click on Login button
+2021-03-10 11:38:18,143 - logger_File -INFO - Register as an Affiliate userwith Cheque Payment Method   failed
+2021-03-10 11:38:18,145 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started 
+2021-03-10 11:38:21,570 - logger_File -INFO - Retail page is opened
+2021-03-10 11:38:21,577 - logger_File -INFO - Page title  is verified
+2021-03-10 11:38:22,131 - logger_File -INFO - User click on My Account
+2021-03-10 11:38:22,521 - logger_File -INFO - User click on Login
+2021-03-10 11:38:25,932 - logger_File -INFO - User enter email address
+2021-03-10 11:38:26,022 - logger_File -INFO - User enter password
+2021-03-10 11:38:26,707 - logger_File -INFO - User click on Login button
+2021-03-10 11:38:52,453 - logger_File -INFO - Scenario Edit your account Information Started 
+2021-03-10 11:38:56,141 - logger_File -INFO - Retail page is opened
+2021-03-10 11:38:56,148 - logger_File -INFO - Page title  is verified
+2021-03-10 11:38:56,728 - logger_File -INFO - User click on My Account
+2021-03-10 11:38:57,127 - logger_File -INFO - User click on Login
+2021-03-10 11:39:00,566 - logger_File -INFO - User enter email address
+2021-03-10 11:39:00,630 - logger_File -INFO - User enter password
+2021-03-10 11:39:01,650 - logger_File -INFO - User click on Login button
+2021-03-10 11:47:57,968 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-03-10 11:48:04,732 - logger_File -INFO - Retail page is opened
